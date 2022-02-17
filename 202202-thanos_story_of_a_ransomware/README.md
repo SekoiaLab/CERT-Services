@@ -1,6 +1,8 @@
 # The story of a ransomware builder: from Thanos to Spook and beyond (Part 1)
 
+During an onsite incident response analysis, CERT-Sekoia was contacted in order to respond to a Spook ransomware attack. A further analysis on Thanos builder and how obfuscation is implemented.
 
+[Link to the article]()
 
 # Script
 
